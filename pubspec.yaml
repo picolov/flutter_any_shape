@@ -1,0 +1,19 @@
+name: flutter_any_shape
+description: Create any polygon shape with curved corner from set of points
+version: 0.0.1
+author: Picolov
+homepage: https://github.com/picolov/flutter_any_shape
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
